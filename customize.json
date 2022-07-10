@@ -1,11 +1,11 @@
 {
-  "greeting": "Oii",
-  "name": "Vino",
+  "greeting": "ஓய்",
+  "name": "தங்கமே",
   "greetingText": "inaiku un poranthanal am eh",
-  "wishText": "May my polambals always be with you! ;)",
-  "imagePath": "img/lydia2.png",
+  "wishText": "May my polambals always be with you! 😜",
+  "imagePath": "img/vino.jpeg",
   "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "textInChatBox": "Happy birthday to you!! Unake therium unna enaku evlo...",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
   "text3": "But then I stopped.",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "outroText": "there's still more...",
+  "replayText": "click here to continue",
   "outroSmiley": ":)"
 }
