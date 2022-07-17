@@ -13,7 +13,7 @@ const fetchData = () => {
           } else {
             document.querySelector(`[data-node-name*="${customData}"]`).innerText = data[customData];
           }
-        }
+        } 
 
         // Check if the iteration is over
         // Run amimation if so
@@ -296,10 +296,10 @@ const animationTimeline = () => {
   // tl.timeScale(2);
 
   // Restart Animation on click
-  const replyBtn = document.getElementById("replay");
-  replyBtn.addEventListener("click", () => {
-    tl.restart();
-  });
+  // const replyBtn = document.getElementById("replay");
+  // replyBtn.addEventListener("click", () => {
+  //   tl.restart();
+  // });
 };
 
 // Run fetch and animation in sequence
